@@ -2,7 +2,7 @@
   "name": "student-portal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DishaSharma-dev.github.io/Student-Portal",
+  "homepage": "https://DishaSharma-dev.github.io/student-portal",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
