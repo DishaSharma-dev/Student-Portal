@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './components/header/header';
-import {BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import {HashRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import StudentList from './components/student-list/student-list';
 import StudentData from './components/student-data/student-data';
 
